@@ -30,7 +30,7 @@
 
 ## life cycle
 
-<img src="http://alp.alicdn.com/1477853360759.png" width="400px" height="500px">
+<img src="https://alp.alicdn.com/1477853360759.png" width="400px" height="500px">
 
 
 ## how to use
