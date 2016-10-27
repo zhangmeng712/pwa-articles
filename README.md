@@ -15,7 +15,7 @@
 
 ## what is the service worker
 
-<img src="http://www.zhimengzhe.com/d/file/bc/nti1mbd1vij.gif" width="500px" height="300ox">
+<img src="https://alp.alicdn.com/1477854221286.gif" width="500px" height="300ox">
 
 ### characteristic
 
@@ -89,7 +89,7 @@ self.addEventListener('install', function(event) {
 - The Cache interface provides a storage mechanism for Request / Response object pairs that are cached
 - <a href="https://developer.mozilla.org/en-US/docs/Web/API/Cache" target="_blank">cache API</a>: match addAll map ...
 - cache polyfill
-- 
+
 
 
 
