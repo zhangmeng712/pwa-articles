@@ -135,7 +135,7 @@ self.addEventListener('activate', event => {
 
 <img src="https://gw.alicdn.com/tps/TB1NrMyNVXXXXc.XXXXXXXXXXXX-813-706.gif" width="600px" height="550px">
  
-<img src="http://alp.alicdn.com/1477853281024.jpg">
+<img src="https://alp.alicdn.com/1477853281024.jpg">
 
 
 - Check if browser supports service worker & push messaging
